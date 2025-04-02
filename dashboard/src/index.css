@@ -1,0 +1,44 @@
+/* .container{
+  display: flex;
+  justify-content: space-around;
+}
+ul{
+  text-decoration: none;
+  list-style: none;
+  padding: 0;
+  margin:0;
+}
+
+li{
+  text-decoration: none;
+  cursor: pointer;
+}
+a{
+  text-decoration: none;
+  color:black;
+}
+a:hover{
+  color:#FF7900
+}
+.active{
+  color:#FF7900
+}
+.left{
+  padding-top: 20px;
+  
+}
+
+.left input{
+  height: 30px;
+  width: 90%;
+}
+.up{
+  color:green;
+}
+
+.container1 li{
+ margin-top: 10px;
+ padding-top: 10px;
+  
+} */
+@import "tailwindcss"
