@@ -16,10 +16,10 @@ skills- this project demonstrates how to design, structure, and deploy a financi
 
 | Layer | Technologies |
 |-------|---------------|
-| *Frontend* | HTML5, CSS3, JavaScript (or React / Next.js if used) |
-| *Styling* | TailwindCSS / Bootstrap / Custom CSS |
-| *Icons & Assets* | Lucide / Font Awesome / Custom SVGs |
-| *Backend (optional)* | Node.js / Express (if implemented) |
+| *Frontend* | HTML5, CSS3, JavaScript, React |
+| *Styling* | TailwindCSS  / Custom CSS |
+| *Icons & Assets* |  Font Awesome / Custom SVGs |
+| *Backend (optional)* | Node.js / Express 
 | *Deployment* | Vercel / Netlify / GitHub Pages |
 
 ---
